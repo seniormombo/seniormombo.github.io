@@ -58,7 +58,7 @@ var slSupported = (MSIE && ver >= 5 && !isMac) || isFirefox;
 var isUpLevel = vmlSupported || (slSupported && slInstalled);
 var fShowWidgets = (MSIE && ver >= 5 && !isMac) || isFirefox;
 
-var xmlData = XMLData("data.xml");
+var xmlData = XMLData("Drawing1_files/data.xml");
 
 var g_RowStyleList = new  Array(
  "propViewerEvenRow",

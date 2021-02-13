@@ -5,7 +5,7 @@
 		<HyperlinkBase href=""></HyperlinkBase>
 	</DocumentProperties>
 	<Pages>
-		<Page ID="0" Name="Page-1" NameU="Page-1">
+		<Page ID="0" Name="MindWok" NameU="MindWok">
 			<PageProps>
 				<PageScale Unit="IN_F">1.000000000000000</PageScale>
 				<DrawingScale Unit="IN_F">1.000000000000000</DrawingScale>
@@ -127,6 +127,109 @@
 					<XForm>
 						<PinX Unit="IN_F">4.171875086491525</PinX>
 						<PinY Unit="IN_F">9.414062695172824</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="LeaderShip" NameU="LeaderShip">
+			<PageProps>
+				<PageScale Unit="IN_F">1.000000000000000</PageScale>
+				<DrawingScale Unit="IN_F">1.000000000000000</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="10" UniqueID="{45434953-4935-4A91-9205-5DC3FCE6C1CB}" Name="Sheet.10" NameU="Sheet.10">
+					<XForm>
+						<PinX Unit="IN_F">4.172991155841556</PinX>
+						<PinY Unit="IN_F">6.638392784176585</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{C0773DCE-8CDB-453A-B86C-7115980BEA02}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="IN_F">4.180721327058677</PinX>
+						<PinY Unit="IN_F">7.999999035149864</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{7DAEC349-4A9C-4B57-82C2-47F1B54A7B31}" Name="Sheet.2" NameU="Sheet.2">
+					<Text>Managers :
+“We are making great process!”</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.625000091003525</PinX>
+						<PinY Unit="IN_F">6.749999926558560</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Link to 7-Habits</HLURL:Description>
+										<HLURL:Address>https://www.franklincovey.com/the-7-habits/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://www.franklincovey.com/the-7-habits/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="3" UniqueID="{E6E3FC1A-D81C-429E-8B23-11C1B077BC9F}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Leaders:
+“Wrong Jungle!”
+- Steven R. Covey</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.796874606765805</PinX>
+						<PinY Unit="IN_F">6.741071355167977</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>7-Habits of Highly Effective People</HLURL:Description>
+										<HLURL:Address>https://www.franklincovey.com/the-7-habits/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://www.franklincovey.com/the-7-habits/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="5" UniqueID="{C04F1265-7A74-4D25-AE91-58152B218A7E}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>IMPROVING COMPANY LEADERSHIP
+By Disrupting</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.281250083952074</PinX>
+						<PinY Unit="IN_F">9.437499915116598</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{F54F4938-8919-4D6C-8B93-A84370FF96E3}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>LEADERSHIP BY DISRUPTION
+Conference Jan 20, 2050
+8pm – Market Square, MyCity, MyState
+Email for Free Reservation: emailme@somecompany.com</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.169642941570103</PinX>
+						<PinY Unit="IN_F">5.607142788567009</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{F4D57B90-901D-42AC-812A-4E3FADE00FAA}" Name="Sheet.9" NameU="Sheet.9">
+					<Text>Agenda
+
+Who
+What
+Where
+When
+Why
+How</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.169642941570103</PinX>
+						<PinY Unit="IN_F">4.239549722886166</PinY>
 					</XForm>
 				</Shape>
 			</Shapes>
