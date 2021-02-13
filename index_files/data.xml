@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="IN_F">1.000000000000000</PageScale>
+				<DrawingScale Unit="IN_F">1.000000000000000</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{773795AE-BF01-441F-903B-633583CED873}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="IN_F">4.085937584709864</PinX>
+						<PinY Unit="IN_F">6.554687635892115</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{0E4B0BE3-A20C-4033-8B82-FD08CBB78C71}" Name="Sheet.2" NameU="Sheet.2">
+					<Text>Mind Map</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.078125084547896</PinX>
+						<PinY Unit="IN_F">6.515625135082270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{01DB0574-905C-440F-A08A-389DC565AE03}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>Item1</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.062500027858694</PinX>
+						<PinY Unit="IN_F">8.500000176222432</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Test1 Hyperlink</HLURL:Description>
+										<HLURL:Address>http://google.com</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://google.com</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="4" UniqueID="{2B15DC52-D14F-4CFF-83D9-6B5B4500F781}" Name="Sheet.4" NameU="Sheet.4">
+					<Text>Item2</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.046875125364121</PinX>
+						<PinY Unit="IN_F">8.500000176222432</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Test2 Hyperlink</HLURL:Description>
+										<HLURL:Address>http://amazon.com</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://amazon.com</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="5" UniqueID="{B7B14DF0-8816-46BA-92D6-848E32A6BBCA}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>Item3 – No Hyperlink</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.046875042435917</PinX>
+						<PinY Unit="IN_F">4.640625096209674</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{9142BC2F-9359-4F05-AFE5-A5B6443FEB64}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>Item4 – No Hyperlink</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.062500125688059</PinX>
+						<PinY Unit="IN_F">4.632812596047705</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
